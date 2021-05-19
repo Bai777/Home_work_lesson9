@@ -40,7 +40,6 @@ public class Home_work_lesson9 {
                 }
             }
         }
-
         return result;
     }
 
